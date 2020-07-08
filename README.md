@@ -40,6 +40,9 @@ for a complete list of classifier algorithms, see [the wiki](https://en.wikipedi
 * polynomial regression
 * support vector regression
 ### instance-based algorithm
+* k-nearest neighbors
+* kernel machines
+* RBF networks
 ### regularization
 ### bayesian
 ### linear classifier
@@ -77,3 +80,6 @@ tools to help you productionalize [models](#models)
 ### security, identity & compliance 
 
 ## applications
+languages 
+packages 
+no-code 
